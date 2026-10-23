@@ -1,0 +1,15 @@
+{
+  "name": "alphabridge",
+  "displayName": "AlphaBridge for WordPress",
+  "version": "1.0.0",
+  "description": "Run your self-hosted WordPress sites from Cursor: posts, pages, media, comments and SEO, with WooCommerce and undo in Pro. Every connection starts read-only.",
+  "author": {
+    "name": "AlphaBridge",
+    "email": "mail@cultureclub.dev"
+  },
+  "homepage": "https://alphabridge-mcp.com",
+  "repository": "https://github.com/CultureClub-dev/alphabridge-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["wordpress", "mcp", "cms", "woocommerce", "seo", "content", "self-hosted"],
+  "logo": "assets/logo.png"
+}
