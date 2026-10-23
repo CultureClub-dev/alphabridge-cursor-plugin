@@ -16,5 +16,5 @@ description: Work on a self-hosted WordPress site through the AlphaBridge MCP se
 2. Read before you write. List or fetch what you are about to change, and tell the user what you found.
 3. A new connection is read-only. If a write tool is refused, tell the user that an administrator can switch on write access in WordPress under Settings → AlphaBridge MCP. Do not look for a way around it.
 4. Change one thing at a time and report what changed, with the post or product ID.
-5. On sites with AlphaBridge Pro, the changes that matter most can be undone with one call: posts and pages, page-builder elements, settings, theme switches, plugin and theme files, PHP snippets and search & replace. `wp_undo_list` shows them, `wp_undo` reverts one; every answer says whether it recorded an undo point.
+5. On sites with AlphaBridge Pro, the changes that matter most can be undone with one call: posts and pages, page-builder elements, settings, theme switches, plugin and theme files, PHP snippets and search & replace. A change that can be undone answers with its undo token; `wp_undo_list` shows them, `wp_undo` reverts one.
 6. Never ask the user for WordPress passwords or tokens. Sign-in happens in the browser when Cursor shows "Authenticate".
