@@ -2,7 +2,7 @@
   "name": "alphabridge",
   "displayName": "AlphaBridge for WordPress",
   "version": "1.0.0",
-  "description": "Your WordPress sites, right inside Cursor: publish posts, fix SEO, run WooCommerce and deploy client sites, just by asking. Read-only until you allow writes, every change undoable.",
+  "description": "Your WordPress sites, right inside Cursor: publish posts, fix SEO, run WooCommerce and deploy client sites, just by asking. Read-only until you allow writes, undo with Pro.",
   "author": {
     "name": "AlphaBridge",
     "email": "mail@cultureclub.dev"
