@@ -1,4 +1,4 @@
-# AlphaBridge for WordPress: Cursor plugin
+# AlphaBridge MCP for WordPress: Cursor plugin
 
 Run all of WordPress from Cursor: SEO, security, your WooCommerce shop and Elementor pages, on up to 10 websites in one connection. Powered by [AlphaBridge](https://alphabridge-mcp.com). Start free.
 
