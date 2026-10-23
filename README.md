@@ -1,6 +1,6 @@
 # AlphaBridge for WordPress: Cursor plugin
 
-Your WordPress sites, right inside Cursor. Publish posts, fix SEO across the whole site, run WooCommerce and deploy client sites, just by asking. Powered by [AlphaBridge](https://alphabridge-mcp.com).
+Run all of WordPress from Cursor: SEO, security, your WooCommerce shop and Elementor pages, on up to 10 websites in one connection. Powered by [AlphaBridge](https://alphabridge-mcp.com). Start free.
 
 ## What you need
 

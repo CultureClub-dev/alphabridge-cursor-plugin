@@ -2,7 +2,7 @@
   "name": "alphabridge",
   "displayName": "AlphaBridge for WordPress",
   "version": "1.0.0",
-  "description": "Your WordPress sites, right inside Cursor: publish posts, fix SEO, run WooCommerce and deploy client sites, just by asking. Read-only until you allow writes, undo with Pro.",
+  "description": "Run all of WordPress from Cursor: SEO, security, your WooCommerce shop and Elementor, on up to 10 websites in one connection. Start free.",
   "author": {
     "name": "AlphaBridge",
     "email": "mail@cultureclub.dev"
@@ -12,12 +12,15 @@
   "license": "MIT",
   "keywords": [
     "wordpress",
+    "seo",
+    "security",
+    "woocommerce",
+    "shop",
+    "elementor",
     "mcp",
     "cms",
-    "woocommerce",
-    "seo",
-    "content",
-    "self-hosted"
+    "deploy",
+    "multisite"
   ],
   "logo": "assets/logo.png"
 }
