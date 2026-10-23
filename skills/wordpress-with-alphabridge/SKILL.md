@@ -12,9 +12,9 @@ description: Work on a self-hosted WordPress site through the AlphaBridge MCP se
 
 ## Instructions
 
-1. Every tool call needs a `site` argument. Call `connect_status` first if you do not know which sites are connected. New sites are added with `connect_add_site`.
+1. With several sites connected, every tool call needs a `site` argument naming one of them; with one site there is none. Call `connect_status` first if you do not know which sites are connected. New sites are added with `connect_add_site`.
 2. Read before you write. List or fetch what you are about to change, and tell the user what you found.
 3. A new connection is read-only. If a write tool is refused, tell the user that an administrator can switch on write access in WordPress under Settings → AlphaBridge MCP. Do not look for a way around it.
 4. Change one thing at a time and report what changed, with the post or product ID.
-5. On sites with AlphaBridge Pro, every change can be undone: `wp_undo_list` shows recent changes, `wp_undo` reverts one.
+5. On sites with AlphaBridge Pro, the changes that matter most can be undone with one call: posts and pages, page-builder elements, settings, theme switches, plugin and theme files, PHP snippets and search & replace. `wp_undo_list` shows them, `wp_undo` reverts one; every answer says whether it recorded an undo point.
 6. Never ask the user for WordPress passwords or tokens. Sign-in happens in the browser when Cursor shows "Authenticate".
