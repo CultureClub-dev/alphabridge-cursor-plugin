@@ -1,6 +1,6 @@
 # AlphaBridge for WordPress: Cursor plugin
 
-Connects Cursor to your self-hosted WordPress sites through [AlphaBridge](https://alphabridge-mcp.com).
+Your WordPress sites, right inside Cursor. Publish posts, fix SEO across the whole site, run WooCommerce and deploy client sites, just by asking. Powered by [AlphaBridge](https://alphabridge-mcp.com).
 
 ## What you need
 
