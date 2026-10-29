@@ -18,11 +18,11 @@ The connection starts read-only. An administrator switches on write access in Wo
 ## What is inside
 
 - `mcp.json`: the address of the hub, the free AlphaBridge service that links your sites to Cursor, `https://connect.alphabridge-mcp.com/mcp` (Streamable HTTP, OAuth 2.1).
-- `skills/wordpress-with-alphabridge`: how the agent should work on a WordPress site (read first, one change at a time, undo with Pro).
+- `skills/wordpress-with-alphabridge`: how the agent should work on a WordPress site (read first, one change at a time, undo).
 
 ## Editions
 
-The free plugin offers 58 tools: posts, pages, media, terms, comments, menus and SEO fields; it reads widgets, users, plugins, themes and WooCommerce. Pro adds WooCommerce editing, user account editing, page-builder texts, code with a safety net and undo for pages, files and snippets. See [alphabridge-mcp.com](https://alphabridge-mcp.com).
+The free plugin offers 80 tools: posts, pages, media, terms, comments, menus, widgets, user accounts, SEO fields, site settings and maintenance, and in WooCommerce prices, stock, order status and coupons. Edits of posts and pages, status changes in bulk and changes of the site settings can be undone for 7 days. Pro adds page-builder texts, search & replace, code with a safety net, installing and updating plugins and themes, and undo that also covers files and snippets, adjustable up to 30 days. See [alphabridge-mcp.com](https://alphabridge-mcp.com).
 
 ## License
 
