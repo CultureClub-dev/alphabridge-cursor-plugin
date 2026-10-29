@@ -22,7 +22,7 @@ The connection starts read-only. An administrator switches on write access in Wo
 
 ## Editions
 
-The free plugin offers 80 tools: posts, pages, media, terms, comments, menus, widgets, user accounts, SEO fields, site settings and maintenance, and in WooCommerce prices, stock, order status and coupons. Edits of posts and pages, status changes in bulk and changes of the site settings can be undone for 7 days. Pro adds page-builder texts, search & replace, code with a safety net, installing and updating plugins and themes, and undo that also covers files and snippets, adjustable up to 30 days. See [alphabridge-mcp.com](https://alphabridge-mcp.com).
+The free plugin offers 80 tools: posts, pages, media, terms, comments, menus, widgets, user accounts, SEO fields, site settings and maintenance, and in WooCommerce prices, stock, order status and coupons. Changes to the title, content, excerpt, status, slug, parent, author or date of a post or page, status changes in bulk and changes of the site settings can be undone for 7 days. Pro adds page-builder texts, search & replace, code with a safety net, installing and updating plugins and themes, and undo that also covers files and snippets, adjustable up to 30 days. See [alphabridge-mcp.com](https://alphabridge-mcp.com).
 
 ## License
 
